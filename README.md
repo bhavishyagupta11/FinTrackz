@@ -305,7 +305,7 @@ MIT License
 
 ## 👨‍💻 Author
 
-**Bhavi Gupta**
+**Bhavishya Gupta**
 B.Tech CSE (AI + ML)
 Focused on building intelligent systems & solving real-world problems.
 
